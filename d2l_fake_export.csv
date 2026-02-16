@@ -1,0 +1,601 @@
+Username,FirstName,LastName,Q #,Q Type,Answer,Score
+riley.smith0,Riley,Smith,1,MC,C,0.0
+riley.smith0,Riley,Smith,2,MC,C,0.0
+riley.smith0,Riley,Smith,3,MC,A,0.0
+riley.smith0,Riley,Smith,4,MC,B,1.0
+riley.smith0,Riley,Smith,5,MC,C,1.0
+riley.smith0,Riley,Smith,6,MC,C,1.0
+riley.smith0,Riley,Smith,7,MC,C,0.0
+riley.smith0,Riley,Smith,8,MC,C,0.0
+riley.smith0,Riley,Smith,9,MC,D,0.0
+riley.smith0,Riley,Smith,10,WR,AI gives helpful feedback.,
+riley.davis1,Riley,Davis,1,MC,C,1.0
+riley.davis1,Riley,Davis,2,MC,B,1.0
+riley.davis1,Riley,Davis,3,MC,C,0.0
+riley.davis1,Riley,Davis,4,MC,B,0.0
+riley.davis1,Riley,Davis,5,MC,B,1.0
+riley.davis1,Riley,Davis,6,MC,B,0.0
+riley.davis1,Riley,Davis,7,MC,B,1.0
+riley.davis1,Riley,Davis,8,MC,C,0.0
+riley.davis1,Riley,Davis,9,MC,D,0.0
+riley.davis1,Riley,Davis,10,WR,AI tools help me improve grammar.,
+alex.brown2,Alex,Brown,1,MC,B,1.0
+alex.brown2,Alex,Brown,2,MC,C,1.0
+alex.brown2,Alex,Brown,3,MC,C,1.0
+alex.brown2,Alex,Brown,4,MC,C,1.0
+alex.brown2,Alex,Brown,5,MC,D,0.0
+alex.brown2,Alex,Brown,6,MC,B,0.0
+alex.brown2,Alex,Brown,7,MC,B,1.0
+alex.brown2,Alex,Brown,8,MC,D,1.0
+alex.brown2,Alex,Brown,9,MC,D,1.0
+alex.brown2,Alex,Brown,10,WR,AI tools help me improve grammar.,
+morgan.johnson3,Morgan,Johnson,1,MC,B,1.0
+morgan.johnson3,Morgan,Johnson,2,MC,C,1.0
+morgan.johnson3,Morgan,Johnson,3,MC,D,1.0
+morgan.johnson3,Morgan,Johnson,4,MC,A,1.0
+morgan.johnson3,Morgan,Johnson,5,MC,C,1.0
+morgan.johnson3,Morgan,Johnson,6,MC,A,1.0
+morgan.johnson3,Morgan,Johnson,7,MC,C,1.0
+morgan.johnson3,Morgan,Johnson,8,MC,A,1.0
+morgan.johnson3,Morgan,Johnson,9,MC,A,1.0
+morgan.johnson3,Morgan,Johnson,10,WR,AI really supports my language learning.,
+quinn.johnson4,Quinn,Johnson,1,MC,D,0.0
+quinn.johnson4,Quinn,Johnson,2,MC,D,1.0
+quinn.johnson4,Quinn,Johnson,3,MC,A,1.0
+quinn.johnson4,Quinn,Johnson,4,MC,A,1.0
+quinn.johnson4,Quinn,Johnson,5,MC,A,1.0
+quinn.johnson4,Quinn,Johnson,6,MC,D,1.0
+quinn.johnson4,Quinn,Johnson,7,MC,B,1.0
+quinn.johnson4,Quinn,Johnson,8,MC,D,1.0
+quinn.johnson4,Quinn,Johnson,9,MC,C,1.0
+quinn.johnson4,Quinn,Johnson,10,WR,I feel confident using AI in class.,
+taylor.lopez5,Taylor,Lopez,1,MC,D,1.0
+taylor.lopez5,Taylor,Lopez,2,MC,A,1.0
+taylor.lopez5,Taylor,Lopez,3,MC,B,1.0
+taylor.lopez5,Taylor,Lopez,4,MC,D,1.0
+taylor.lopez5,Taylor,Lopez,5,MC,B,1.0
+taylor.lopez5,Taylor,Lopez,6,MC,A,1.0
+taylor.lopez5,Taylor,Lopez,7,MC,A,1.0
+taylor.lopez5,Taylor,Lopez,8,MC,B,1.0
+taylor.lopez5,Taylor,Lopez,9,MC,A,1.0
+taylor.lopez5,Taylor,Lopez,10,WR,AI gives helpful feedback.,
+casey.brown6,Casey,Brown,1,MC,D,1.0
+casey.brown6,Casey,Brown,2,MC,A,1.0
+casey.brown6,Casey,Brown,3,MC,B,1.0
+casey.brown6,Casey,Brown,4,MC,D,0.0
+casey.brown6,Casey,Brown,5,MC,B,1.0
+casey.brown6,Casey,Brown,6,MC,A,0.0
+casey.brown6,Casey,Brown,7,MC,D,1.0
+casey.brown6,Casey,Brown,8,MC,C,0.0
+casey.brown6,Casey,Brown,9,MC,C,0.0
+casey.brown6,Casey,Brown,10,WR,AI gives helpful feedback.,
+avery.davis7,Avery,Davis,1,MC,D,1.0
+avery.davis7,Avery,Davis,2,MC,B,0.0
+avery.davis7,Avery,Davis,3,MC,A,1.0
+avery.davis7,Avery,Davis,4,MC,A,1.0
+avery.davis7,Avery,Davis,5,MC,C,1.0
+avery.davis7,Avery,Davis,6,MC,B,0.0
+avery.davis7,Avery,Davis,7,MC,C,1.0
+avery.davis7,Avery,Davis,8,MC,C,0.0
+avery.davis7,Avery,Davis,9,MC,C,1.0
+avery.davis7,Avery,Davis,10,WR,AI really supports my language learning.,
+morgan.davis8,Morgan,Davis,1,MC,B,1.0
+morgan.davis8,Morgan,Davis,2,MC,B,1.0
+morgan.davis8,Morgan,Davis,3,MC,A,0.0
+morgan.davis8,Morgan,Davis,4,MC,A,0.0
+morgan.davis8,Morgan,Davis,5,MC,D,1.0
+morgan.davis8,Morgan,Davis,6,MC,B,1.0
+morgan.davis8,Morgan,Davis,7,MC,B,1.0
+morgan.davis8,Morgan,Davis,8,MC,B,1.0
+morgan.davis8,Morgan,Davis,9,MC,B,0.0
+morgan.davis8,Morgan,Davis,10,WR,AI tools help me improve grammar.,
+jordan.smith9,Jordan,Smith,1,MC,C,1.0
+jordan.smith9,Jordan,Smith,2,MC,B,1.0
+jordan.smith9,Jordan,Smith,3,MC,D,0.0
+jordan.smith9,Jordan,Smith,4,MC,B,0.0
+jordan.smith9,Jordan,Smith,5,MC,D,0.0
+jordan.smith9,Jordan,Smith,6,MC,B,0.0
+jordan.smith9,Jordan,Smith,7,MC,B,1.0
+jordan.smith9,Jordan,Smith,8,MC,A,1.0
+jordan.smith9,Jordan,Smith,9,MC,A,1.0
+jordan.smith9,Jordan,Smith,10,WR,AI really supports my language learning.,
+riley.martinez10,Riley,Martinez,1,MC,A,1.0
+riley.martinez10,Riley,Martinez,2,MC,A,0.0
+riley.martinez10,Riley,Martinez,3,MC,B,1.0
+riley.martinez10,Riley,Martinez,4,MC,C,1.0
+riley.martinez10,Riley,Martinez,5,MC,A,1.0
+riley.martinez10,Riley,Martinez,6,MC,B,1.0
+riley.martinez10,Riley,Martinez,7,MC,B,1.0
+riley.martinez10,Riley,Martinez,8,MC,D,1.0
+riley.martinez10,Riley,Martinez,9,MC,C,1.0
+riley.martinez10,Riley,Martinez,10,WR,AI tools help me improve grammar.,
+alex.davis11,Alex,Davis,1,MC,D,1.0
+alex.davis11,Alex,Davis,2,MC,D,1.0
+alex.davis11,Alex,Davis,3,MC,B,0.0
+alex.davis11,Alex,Davis,4,MC,A,1.0
+alex.davis11,Alex,Davis,5,MC,D,0.0
+alex.davis11,Alex,Davis,6,MC,B,0.0
+alex.davis11,Alex,Davis,7,MC,C,1.0
+alex.davis11,Alex,Davis,8,MC,A,1.0
+alex.davis11,Alex,Davis,9,MC,B,1.0
+alex.davis11,Alex,Davis,10,WR,AI really supports my language learning.,
+casey.davis12,Casey,Davis,1,MC,D,1.0
+casey.davis12,Casey,Davis,2,MC,D,0.0
+casey.davis12,Casey,Davis,3,MC,B,1.0
+casey.davis12,Casey,Davis,4,MC,B,1.0
+casey.davis12,Casey,Davis,5,MC,C,1.0
+casey.davis12,Casey,Davis,6,MC,C,1.0
+casey.davis12,Casey,Davis,7,MC,B,1.0
+casey.davis12,Casey,Davis,8,MC,A,1.0
+casey.davis12,Casey,Davis,9,MC,B,1.0
+casey.davis12,Casey,Davis,10,WR,AI tools help me improve grammar.,
+quinn.davis13,Quinn,Davis,1,MC,C,1.0
+quinn.davis13,Quinn,Davis,2,MC,B,1.0
+quinn.davis13,Quinn,Davis,3,MC,A,1.0
+quinn.davis13,Quinn,Davis,4,MC,A,1.0
+quinn.davis13,Quinn,Davis,5,MC,C,1.0
+quinn.davis13,Quinn,Davis,6,MC,A,1.0
+quinn.davis13,Quinn,Davis,7,MC,D,1.0
+quinn.davis13,Quinn,Davis,8,MC,B,
+quinn.davis13,Quinn,Davis,9,MC,A,1.0
+quinn.davis13,Quinn,Davis,10,WR,AI tools help me improve grammar.,
+taylor.davis14,Taylor,Davis,1,MC,B,1.0
+taylor.davis14,Taylor,Davis,2,MC,D,0.0
+taylor.davis14,Taylor,Davis,3,MC,D,0.0
+taylor.davis14,Taylor,Davis,4,MC,A,1.0
+taylor.davis14,Taylor,Davis,5,MC,D,0.0
+taylor.davis14,Taylor,Davis,6,MC,D,0.0
+taylor.davis14,Taylor,Davis,7,MC,B,1.0
+taylor.davis14,Taylor,Davis,8,MC,B,1.0
+taylor.davis14,Taylor,Davis,9,MC,C,1.0
+taylor.davis14,Taylor,Davis,10,WR,I am concerned about overdependence.,
+quinn.lopez15,Quinn,Lopez,1,MC,C,1.0
+quinn.lopez15,Quinn,Lopez,2,MC,D,1.0
+quinn.lopez15,Quinn,Lopez,3,MC,C,1.0
+quinn.lopez15,Quinn,Lopez,4,MC,C,0.0
+quinn.lopez15,Quinn,Lopez,5,MC,B,0.0
+quinn.lopez15,Quinn,Lopez,6,MC,C,1.0
+quinn.lopez15,Quinn,Lopez,7,MC,D,1.0
+quinn.lopez15,Quinn,Lopez,8,MC,B,1.0
+quinn.lopez15,Quinn,Lopez,9,MC,A,0.0
+quinn.lopez15,Quinn,Lopez,10,WR,I feel confident using AI in class.,
+avery.smith16,Avery,Smith,1,MC,C,0.0
+avery.smith16,Avery,Smith,2,MC,A,1.0
+avery.smith16,Avery,Smith,3,MC,D,0.0
+avery.smith16,Avery,Smith,4,MC,A,0.0
+avery.smith16,Avery,Smith,5,MC,A,1.0
+avery.smith16,Avery,Smith,6,MC,C,1.0
+avery.smith16,Avery,Smith,7,MC,B,
+avery.smith16,Avery,Smith,8,MC,A,1.0
+avery.smith16,Avery,Smith,9,MC,A,1.0
+avery.smith16,Avery,Smith,10,WR,AI gives helpful feedback.,
+avery.lopez17,Avery,Lopez,1,MC,B,1.0
+avery.lopez17,Avery,Lopez,2,MC,B,1.0
+avery.lopez17,Avery,Lopez,3,MC,B,0.0
+avery.lopez17,Avery,Lopez,4,MC,B,0.0
+avery.lopez17,Avery,Lopez,5,MC,A,1.0
+avery.lopez17,Avery,Lopez,6,MC,D,1.0
+avery.lopez17,Avery,Lopez,7,MC,D,1.0
+avery.lopez17,Avery,Lopez,8,MC,B,0.0
+avery.lopez17,Avery,Lopez,9,MC,D,1.0
+avery.lopez17,Avery,Lopez,10,WR,AI really supports my language learning.,
+jordan.davis18,Jordan,Davis,1,MC,B,1.0
+jordan.davis18,Jordan,Davis,2,MC,C,1.0
+jordan.davis18,Jordan,Davis,3,MC,A,1.0
+jordan.davis18,Jordan,Davis,4,MC,A,
+jordan.davis18,Jordan,Davis,5,MC,D,1.0
+jordan.davis18,Jordan,Davis,6,MC,C,1.0
+jordan.davis18,Jordan,Davis,7,MC,A,0.0
+jordan.davis18,Jordan,Davis,8,MC,C,
+jordan.davis18,Jordan,Davis,9,MC,D,0.0
+jordan.davis18,Jordan,Davis,10,WR,AI gives helpful feedback.,
+taylor.martinez19,Taylor,Martinez,1,MC,D,0.0
+taylor.martinez19,Taylor,Martinez,2,MC,C,1.0
+taylor.martinez19,Taylor,Martinez,3,MC,C,1.0
+taylor.martinez19,Taylor,Martinez,4,MC,D,1.0
+taylor.martinez19,Taylor,Martinez,5,MC,B,1.0
+taylor.martinez19,Taylor,Martinez,6,MC,B,1.0
+taylor.martinez19,Taylor,Martinez,7,MC,C,0.0
+taylor.martinez19,Taylor,Martinez,8,MC,A,0.0
+taylor.martinez19,Taylor,Martinez,9,MC,D,0.0
+taylor.martinez19,Taylor,Martinez,10,WR,AI really supports my language learning.,
+avery.garcia20,Avery,Garcia,1,MC,A,1.0
+avery.garcia20,Avery,Garcia,2,MC,D,1.0
+avery.garcia20,Avery,Garcia,3,MC,A,0.0
+avery.garcia20,Avery,Garcia,4,MC,C,0.0
+avery.garcia20,Avery,Garcia,5,MC,C,1.0
+avery.garcia20,Avery,Garcia,6,MC,C,
+avery.garcia20,Avery,Garcia,7,MC,B,1.0
+avery.garcia20,Avery,Garcia,8,MC,D,1.0
+avery.garcia20,Avery,Garcia,9,MC,A,1.0
+avery.garcia20,Avery,Garcia,10,WR,It depends on how the instructor uses it.,
+casey.johnson21,Casey,Johnson,1,MC,C,1.0
+casey.johnson21,Casey,Johnson,2,MC,D,0.0
+casey.johnson21,Casey,Johnson,3,MC,B,0.0
+casey.johnson21,Casey,Johnson,4,MC,A,1.0
+casey.johnson21,Casey,Johnson,5,MC,D,1.0
+casey.johnson21,Casey,Johnson,6,MC,B,1.0
+casey.johnson21,Casey,Johnson,7,MC,C,1.0
+casey.johnson21,Casey,Johnson,8,MC,A,0.0
+casey.johnson21,Casey,Johnson,9,MC,C,1.0
+casey.johnson21,Casey,Johnson,10,WR,It depends on how the instructor uses it.,
+taylor.smith22,Taylor,Smith,1,MC,A,0.0
+taylor.smith22,Taylor,Smith,2,MC,B,1.0
+taylor.smith22,Taylor,Smith,3,MC,C,1.0
+taylor.smith22,Taylor,Smith,4,MC,B,1.0
+taylor.smith22,Taylor,Smith,5,MC,D,0.0
+taylor.smith22,Taylor,Smith,6,MC,A,0.0
+taylor.smith22,Taylor,Smith,7,MC,C,0.0
+taylor.smith22,Taylor,Smith,8,MC,C,1.0
+taylor.smith22,Taylor,Smith,9,MC,C,1.0
+taylor.smith22,Taylor,Smith,10,WR,I feel neutral about AI use.,
+jamie.martinez23,Jamie,Martinez,1,MC,C,0.0
+jamie.martinez23,Jamie,Martinez,2,MC,A,1.0
+jamie.martinez23,Jamie,Martinez,3,MC,A,1.0
+jamie.martinez23,Jamie,Martinez,4,MC,D,1.0
+jamie.martinez23,Jamie,Martinez,5,MC,B,0.0
+jamie.martinez23,Jamie,Martinez,6,MC,C,0.0
+jamie.martinez23,Jamie,Martinez,7,MC,A,1.0
+jamie.martinez23,Jamie,Martinez,8,MC,C,0.0
+jamie.martinez23,Jamie,Martinez,9,MC,B,1.0
+jamie.martinez23,Jamie,Martinez,10,WR,There are both benefits and risks.,
+cameron.lee24,Cameron,Lee,1,MC,D,1.0
+cameron.lee24,Cameron,Lee,2,MC,B,1.0
+cameron.lee24,Cameron,Lee,3,MC,D,0.0
+cameron.lee24,Cameron,Lee,4,MC,C,1.0
+cameron.lee24,Cameron,Lee,5,MC,D,0.0
+cameron.lee24,Cameron,Lee,6,MC,A,0.0
+cameron.lee24,Cameron,Lee,7,MC,A,1.0
+cameron.lee24,Cameron,Lee,8,MC,C,1.0
+cameron.lee24,Cameron,Lee,9,MC,B,0.0
+cameron.lee24,Cameron,Lee,10,WR,There are both benefits and risks.,
+casey.lee25,Casey,Lee,1,MC,A,0.0
+casey.lee25,Casey,Lee,2,MC,D,1.0
+casey.lee25,Casey,Lee,3,MC,A,0.0
+casey.lee25,Casey,Lee,4,MC,A,1.0
+casey.lee25,Casey,Lee,5,MC,B,0.0
+casey.lee25,Casey,Lee,6,MC,D,1.0
+casey.lee25,Casey,Lee,7,MC,B,1.0
+casey.lee25,Casey,Lee,8,MC,D,
+casey.lee25,Casey,Lee,9,MC,A,1.0
+casey.lee25,Casey,Lee,10,WR,I feel neutral about AI use.,
+morgan.lopez26,Morgan,Lopez,1,MC,B,1.0
+morgan.lopez26,Morgan,Lopez,2,MC,A,1.0
+morgan.lopez26,Morgan,Lopez,3,MC,D,0.0
+morgan.lopez26,Morgan,Lopez,4,MC,A,1.0
+morgan.lopez26,Morgan,Lopez,5,MC,C,1.0
+morgan.lopez26,Morgan,Lopez,6,MC,B,0.0
+morgan.lopez26,Morgan,Lopez,7,MC,A,
+morgan.lopez26,Morgan,Lopez,8,MC,B,1.0
+morgan.lopez26,Morgan,Lopez,9,MC,D,1.0
+morgan.lopez26,Morgan,Lopez,10,WR,I feel neutral about AI use.,
+morgan.brown27,Morgan,Brown,1,MC,D,1.0
+morgan.brown27,Morgan,Brown,2,MC,A,0.0
+morgan.brown27,Morgan,Brown,3,MC,A,1.0
+morgan.brown27,Morgan,Brown,4,MC,B,1.0
+morgan.brown27,Morgan,Brown,5,MC,B,
+morgan.brown27,Morgan,Brown,6,MC,A,1.0
+morgan.brown27,Morgan,Brown,7,MC,C,1.0
+morgan.brown27,Morgan,Brown,8,MC,C,0.0
+morgan.brown27,Morgan,Brown,9,MC,D,1.0
+morgan.brown27,Morgan,Brown,10,WR,Artificial intelligence can help but needs clear rules.,
+riley.johnson28,Riley,Johnson,1,MC,A,0.0
+riley.johnson28,Riley,Johnson,2,MC,A,1.0
+riley.johnson28,Riley,Johnson,3,MC,D,0.0
+riley.johnson28,Riley,Johnson,4,MC,B,1.0
+riley.johnson28,Riley,Johnson,5,MC,C,1.0
+riley.johnson28,Riley,Johnson,6,MC,A,0.0
+riley.johnson28,Riley,Johnson,7,MC,B,
+riley.johnson28,Riley,Johnson,8,MC,C,0.0
+riley.johnson28,Riley,Johnson,9,MC,A,1.0
+riley.johnson28,Riley,Johnson,10,WR,It depends on how the instructor uses it.,
+quinn.lee29,Quinn,Lee,1,MC,D,0.0
+quinn.lee29,Quinn,Lee,2,MC,B,1.0
+quinn.lee29,Quinn,Lee,3,MC,D,1.0
+quinn.lee29,Quinn,Lee,4,MC,A,0.0
+quinn.lee29,Quinn,Lee,5,MC,D,0.0
+quinn.lee29,Quinn,Lee,6,MC,B,1.0
+quinn.lee29,Quinn,Lee,7,MC,C,
+quinn.lee29,Quinn,Lee,8,MC,C,
+quinn.lee29,Quinn,Lee,9,MC,B,1.0
+quinn.lee29,Quinn,Lee,10,WR,AI can help but needs clear rules.,
+riley.davis30,Riley,Davis,1,MC,A,0.0
+riley.davis30,Riley,Davis,2,MC,C,1.0
+riley.davis30,Riley,Davis,3,MC,D,1.0
+riley.davis30,Riley,Davis,4,MC,D,1.0
+riley.davis30,Riley,Davis,5,MC,D,
+riley.davis30,Riley,Davis,6,MC,C,
+riley.davis30,Riley,Davis,7,MC,B,1.0
+riley.davis30,Riley,Davis,8,MC,C,1.0
+riley.davis30,Riley,Davis,9,MC,A,0.0
+riley.davis30,Riley,Davis,10,WR,There are both benefits and risks.,
+jordan.lee31,Jordan,Lee,1,MC,B,1.0
+jordan.lee31,Jordan,Lee,2,MC,B,1.0
+jordan.lee31,Jordan,Lee,3,MC,A,0.0
+jordan.lee31,Jordan,Lee,4,MC,A,1.0
+jordan.lee31,Jordan,Lee,5,MC,C,0.0
+jordan.lee31,Jordan,Lee,6,MC,D,1.0
+jordan.lee31,Jordan,Lee,7,MC,D,1.0
+jordan.lee31,Jordan,Lee,8,MC,A,1.0
+jordan.lee31,Jordan,Lee,9,MC,C,0.0
+jordan.lee31,Jordan,Lee,10,WR,I feel neutral about AI use.,
+taylor.lee32,Taylor,Lee,1,MC,D,1.0
+taylor.lee32,Taylor,Lee,2,MC,B,0.0
+taylor.lee32,Taylor,Lee,3,MC,B,1.0
+taylor.lee32,Taylor,Lee,4,MC,D,0.0
+taylor.lee32,Taylor,Lee,5,MC,A,
+taylor.lee32,Taylor,Lee,6,MC,B,0.0
+taylor.lee32,Taylor,Lee,7,MC,C,1.0
+taylor.lee32,Taylor,Lee,8,MC,C,0.0
+taylor.lee32,Taylor,Lee,9,MC,B,0.0
+taylor.lee32,Taylor,Lee,10,WR,It depends on how the instructor uses it.,
+jordan.lee33,Jordan,Lee,1,MC,A,0.0
+jordan.lee33,Jordan,Lee,2,MC,C,0.0
+jordan.lee33,Jordan,Lee,3,MC,A,0.0
+jordan.lee33,Jordan,Lee,4,MC,C,1.0
+jordan.lee33,Jordan,Lee,5,MC,A,1.0
+jordan.lee33,Jordan,Lee,6,MC,A,1.0
+jordan.lee33,Jordan,Lee,7,MC,C,1.0
+jordan.lee33,Jordan,Lee,8,MC,B,1.0
+jordan.lee33,Jordan,Lee,9,MC,B,1.0
+jordan.lee33,Jordan,Lee,10,WR,I feel neutral about Artificial intelligence use.,
+alex.martinez34,Alex,Martinez,1,MC,A,1.0
+alex.martinez34,Alex,Martinez,2,MC,B,1.0
+alex.martinez34,Alex,Martinez,3,MC,D,0.0
+alex.martinez34,Alex,Martinez,4,MC,D,1.0
+alex.martinez34,Alex,Martinez,5,MC,C,0.0
+alex.martinez34,Alex,Martinez,6,MC,C,1.0
+alex.martinez34,Alex,Martinez,7,MC,B,0.0
+alex.martinez34,Alex,Martinez,8,MC,D,0.0
+alex.martinez34,Alex,Martinez,9,MC,C,1.0
+alex.martinez34,Alex,Martinez,10,WR,It depends on how the instructor uses it.,
+casey.davis35,Casey,Davis,1,MC,D,0.0
+casey.davis35,Casey,Davis,2,MC,B,1.0
+casey.davis35,Casey,Davis,3,MC,C,1.0
+casey.davis35,Casey,Davis,4,MC,B,0.0
+casey.davis35,Casey,Davis,5,MC,A,1.0
+casey.davis35,Casey,Davis,6,MC,D,0.0
+casey.davis35,Casey,Davis,7,MC,D,1.0
+casey.davis35,Casey,Davis,8,MC,A,1.0
+casey.davis35,Casey,Davis,9,MC,D,1.0
+casey.davis35,Casey,Davis,10,WR,Artificial intelligence can help but needs clear rules.,
+quinn.johnson36,Quinn,Johnson,1,MC,C,0.0
+quinn.johnson36,Quinn,Johnson,2,MC,D,
+quinn.johnson36,Quinn,Johnson,3,MC,C,1.0
+quinn.johnson36,Quinn,Johnson,4,MC,C,1.0
+quinn.johnson36,Quinn,Johnson,5,MC,C,1.0
+quinn.johnson36,Quinn,Johnson,6,MC,A,0.0
+quinn.johnson36,Quinn,Johnson,7,MC,A,
+quinn.johnson36,Quinn,Johnson,8,MC,D,1.0
+quinn.johnson36,Quinn,Johnson,9,MC,B,
+quinn.johnson36,Quinn,Johnson,10,WR,There are both benefits and risks.,
+morgan.lopez37,Morgan,Lopez,1,MC,A,1.0
+morgan.lopez37,Morgan,Lopez,2,MC,A,0.0
+morgan.lopez37,Morgan,Lopez,3,MC,D,1.0
+morgan.lopez37,Morgan,Lopez,4,MC,B,1.0
+morgan.lopez37,Morgan,Lopez,5,MC,C,0.0
+morgan.lopez37,Morgan,Lopez,6,MC,B,
+morgan.lopez37,Morgan,Lopez,7,MC,A,0.0
+morgan.lopez37,Morgan,Lopez,8,MC,B,0.0
+morgan.lopez37,Morgan,Lopez,9,MC,B,1.0
+morgan.lopez37,Morgan,Lopez,10,WR,Artificial intelligence can help but needs clear rules.,
+quinn.brown38,Quinn,Brown,1,MC,B,1.0
+quinn.brown38,Quinn,Brown,2,MC,C,1.0
+quinn.brown38,Quinn,Brown,3,MC,A,0.0
+quinn.brown38,Quinn,Brown,4,MC,B,0.0
+quinn.brown38,Quinn,Brown,5,MC,D,0.0
+quinn.brown38,Quinn,Brown,6,MC,B,1.0
+quinn.brown38,Quinn,Brown,7,MC,A,1.0
+quinn.brown38,Quinn,Brown,8,MC,C,0.0
+quinn.brown38,Quinn,Brown,9,MC,D,1.0
+quinn.brown38,Quinn,Brown,10,WR,There are both benefits and risks.,
+quinn.martinez39,Quinn,Martinez,1,MC,B,1.0
+quinn.martinez39,Quinn,Martinez,2,MC,D,0.0
+quinn.martinez39,Quinn,Martinez,3,MC,C,1.0
+quinn.martinez39,Quinn,Martinez,4,MC,B,0.0
+quinn.martinez39,Quinn,Martinez,5,MC,A,1.0
+quinn.martinez39,Quinn,Martinez,6,MC,C,0.0
+quinn.martinez39,Quinn,Martinez,7,MC,B,0.0
+quinn.martinez39,Quinn,Martinez,8,MC,B,
+quinn.martinez39,Quinn,Martinez,9,MC,C,0.0
+quinn.martinez39,Quinn,Martinez,10,WR,It depends on how the instructor uses it.,
+cameron.davis40,Cameron,Davis,1,MC,C,0.0
+cameron.davis40,Cameron,Davis,2,MC,D,0.0
+cameron.davis40,Cameron,Davis,3,MC,A,1.0
+cameron.davis40,Cameron,Davis,4,MC,D,1.0
+cameron.davis40,Cameron,Davis,5,MC,C,0.0
+cameron.davis40,Cameron,Davis,6,MC,D,1.0
+cameron.davis40,Cameron,Davis,7,MC,B,1.0
+cameron.davis40,Cameron,Davis,8,MC,B,0.0
+cameron.davis40,Cameron,Davis,9,MC,B,1.0
+cameron.davis40,Cameron,Davis,10,WR,I am concerned about overdependence.,
+jordan.martinez41,Jordan,Martinez,1,MC,B,0.0
+jordan.martinez41,Jordan,Martinez,2,MC,B,1.0
+jordan.martinez41,Jordan,Martinez,3,MC,D,0.0
+jordan.martinez41,Jordan,Martinez,4,MC,A,0.0
+jordan.martinez41,Jordan,Martinez,5,MC,D,1.0
+jordan.martinez41,Jordan,Martinez,6,MC,A,0.0
+jordan.martinez41,Jordan,Martinez,7,MC,B,1.0
+jordan.martinez41,Jordan,Martinez,8,MC,C,1.0
+jordan.martinez41,Jordan,Martinez,9,MC,B,1.0
+jordan.martinez41,Jordan,Martinez,10,WR,There is risk of academic dishonesty.,
+jamie.martinez42,Jamie,Martinez,1,MC,A,1.0
+jamie.martinez42,Jamie,Martinez,2,MC,C,0.0
+jamie.martinez42,Jamie,Martinez,3,MC,A,0.0
+jamie.martinez42,Jamie,Martinez,4,MC,A,0.0
+jamie.martinez42,Jamie,Martinez,5,MC,C,0.0
+jamie.martinez42,Jamie,Martinez,6,MC,A,1.0
+jamie.martinez42,Jamie,Martinez,7,MC,B,1.0
+jamie.martinez42,Jamie,Martinez,8,MC,B,0.0
+jamie.martinez42,Jamie,Martinez,9,MC,C,1.0
+jamie.martinez42,Jamie,Martinez,10,WR,There is risk of academic dishonesty.,
+cameron.garcia43,Cameron,Garcia,1,MC,B,0.0
+cameron.garcia43,Cameron,Garcia,2,MC,B,0.0
+cameron.garcia43,Cameron,Garcia,3,MC,C,1.0
+cameron.garcia43,Cameron,Garcia,4,MC,C,0.0
+cameron.garcia43,Cameron,Garcia,5,MC,A,1.0
+cameron.garcia43,Cameron,Garcia,6,MC,C,1.0
+cameron.garcia43,Cameron,Garcia,7,MC,A,0.0
+cameron.garcia43,Cameron,Garcia,8,MC,D,1.0
+cameron.garcia43,Cameron,Garcia,9,MC,B,0.0
+cameron.garcia43,Cameron,Garcia,10,WR,I worry students may rely too much on AI.,
+riley.lopez44,Riley,Lopez,1,MC,A,1.0
+riley.lopez44,Riley,Lopez,2,MC,B,0.0
+riley.lopez44,Riley,Lopez,3,MC,B,0.0
+riley.lopez44,Riley,Lopez,4,MC,B,1.0
+riley.lopez44,Riley,Lopez,5,MC,A,1.0
+riley.lopez44,Riley,Lopez,6,MC,C,0.0
+riley.lopez44,Riley,Lopez,7,MC,B,1.0
+riley.lopez44,Riley,Lopez,8,MC,C,1.0
+riley.lopez44,Riley,Lopez,9,MC,D,1.0
+riley.lopez44,Riley,Lopez,10,WR,I am concerned about overdependence.,
+taylor.martinez45,Taylor,Martinez,1,MC,D,1.0
+taylor.martinez45,Taylor,Martinez,2,MC,A,1.0
+taylor.martinez45,Taylor,Martinez,3,MC,D,0.0
+taylor.martinez45,Taylor,Martinez,4,MC,A,0.0
+taylor.martinez45,Taylor,Martinez,5,MC,A,1.0
+taylor.martinez45,Taylor,Martinez,6,MC,B,0.0
+taylor.martinez45,Taylor,Martinez,7,MC,D,0.0
+taylor.martinez45,Taylor,Martinez,8,MC,C,0.0
+taylor.martinez45,Taylor,Martinez,9,MC,A,1.0
+taylor.martinez45,Taylor,Martinez,10,WR,I worry students may rely too much on AI.,
+casey.davis46,Casey,Davis,1,MC,A,0.0
+casey.davis46,Casey,Davis,2,MC,C,1.0
+casey.davis46,Casey,Davis,3,MC,A,1.0
+casey.davis46,Casey,Davis,4,MC,A,0.0
+casey.davis46,Casey,Davis,5,MC,B,1.0
+casey.davis46,Casey,Davis,6,MC,A,0.0
+casey.davis46,Casey,Davis,7,MC,A,0.0
+casey.davis46,Casey,Davis,8,MC,B,0.0
+casey.davis46,Casey,Davis,9,MC,A,0.0
+casey.davis46,Casey,Davis,10,WR,There is risk of academic dishonesty.,
+avery.garcia47,Avery,Garcia,1,MC,A,0.0
+avery.garcia47,Avery,Garcia,2,MC,D,1.0
+avery.garcia47,Avery,Garcia,3,MC,B,0.0
+avery.garcia47,Avery,Garcia,4,MC,B,0.0
+avery.garcia47,Avery,Garcia,5,MC,B,0.0
+avery.garcia47,Avery,Garcia,6,MC,A,1.0
+avery.garcia47,Avery,Garcia,7,MC,A,1.0
+avery.garcia47,Avery,Garcia,8,MC,B,
+avery.garcia47,Avery,Garcia,9,MC,D,0.0
+avery.garcia47,Avery,Garcia,10,WR,I worry students may rely too much on AI.,
+alex.lee48,Alex,Lee,1,MC,A,0.0
+alex.lee48,Alex,Lee,2,MC,C,1.0
+alex.lee48,Alex,Lee,3,MC,A,0.0
+alex.lee48,Alex,Lee,4,MC,B,1.0
+alex.lee48,Alex,Lee,5,MC,D,0.0
+alex.lee48,Alex,Lee,6,MC,C,0.0
+alex.lee48,Alex,Lee,7,MC,A,1.0
+alex.lee48,Alex,Lee,8,MC,C,0.0
+alex.lee48,Alex,Lee,9,MC,B,0.0
+alex.lee48,Alex,Lee,10,WR,I am concerned about overdependence.,
+cameron.davis49,Cameron,Davis,1,MC,C,0.0
+cameron.davis49,Cameron,Davis,2,MC,B,0.0
+cameron.davis49,Cameron,Davis,3,MC,D,0.0
+cameron.davis49,Cameron,Davis,4,MC,B,1.0
+cameron.davis49,Cameron,Davis,5,MC,C,1.0
+cameron.davis49,Cameron,Davis,6,MC,B,0.0
+cameron.davis49,Cameron,Davis,7,MC,C,0.0
+cameron.davis49,Cameron,Davis,8,MC,B,1.0
+cameron.davis49,Cameron,Davis,9,MC,D,0.0
+cameron.davis49,Cameron,Davis,10,WR,There is risk of academic dishonesty.,
+jordan.smith50,Jordan,Smith,1,MC,C,1.0
+jordan.smith50,Jordan,Smith,2,MC,B,0.0
+jordan.smith50,Jordan,Smith,3,MC,D,1.0
+jordan.smith50,Jordan,Smith,4,MC,B,0.0
+jordan.smith50,Jordan,Smith,5,MC,A,0.0
+jordan.smith50,Jordan,Smith,6,MC,A,0.0
+jordan.smith50,Jordan,Smith,7,MC,B,1.0
+jordan.smith50,Jordan,Smith,8,MC,C,1.0
+jordan.smith50,Jordan,Smith,9,MC,D,1.0
+jordan.smith50,Jordan,Smith,10,WR,I worry students may rely too much on AI.,
+jamie.johnson51,Jamie,Johnson,1,MC,B,1.0
+jamie.johnson51,Jamie,Johnson,2,MC,B,1.0
+jamie.johnson51,Jamie,Johnson,3,MC,A,1.0
+jamie.johnson51,Jamie,Johnson,4,MC,C,0.0
+jamie.johnson51,Jamie,Johnson,5,MC,B,1.0
+jamie.johnson51,Jamie,Johnson,6,MC,A,1.0
+jamie.johnson51,Jamie,Johnson,7,MC,B,0.0
+jamie.johnson51,Jamie,Johnson,8,MC,A,0.0
+jamie.johnson51,Jamie,Johnson,9,MC,A,0.0
+jamie.johnson51,Jamie,Johnson,10,WR,I worry students may rely too much on AI.,
+taylor.martinez52,Taylor,Martinez,1,MC,A,0.0
+taylor.martinez52,Taylor,Martinez,2,MC,A,0.0
+taylor.martinez52,Taylor,Martinez,3,MC,B,1.0
+taylor.martinez52,Taylor,Martinez,4,MC,A,1.0
+taylor.martinez52,Taylor,Martinez,5,MC,B,1.0
+taylor.martinez52,Taylor,Martinez,6,MC,C,0.0
+taylor.martinez52,Taylor,Martinez,7,MC,D,0.0
+taylor.martinez52,Taylor,Martinez,8,MC,B,1.0
+taylor.martinez52,Taylor,Martinez,9,MC,A,0.0
+taylor.martinez52,Taylor,Martinez,10,WR,It depends on how the instructor uses it.,
+cameron.garcia53,Cameron,Garcia,1,MC,C,0.0
+cameron.garcia53,Cameron,Garcia,2,MC,C,0.0
+cameron.garcia53,Cameron,Garcia,3,MC,B,1.0
+cameron.garcia53,Cameron,Garcia,4,MC,B,1.0
+cameron.garcia53,Cameron,Garcia,5,MC,C,0.0
+cameron.garcia53,Cameron,Garcia,6,MC,D,0.0
+cameron.garcia53,Cameron,Garcia,7,MC,B,0.0
+cameron.garcia53,Cameron,Garcia,8,MC,D,0.0
+cameron.garcia53,Cameron,Garcia,9,MC,A,1.0
+cameron.garcia53,Cameron,Garcia,10,WR,There is risk of academic dishonesty.,
+morgan.garcia54,Morgan,Garcia,1,MC,A,1.0
+morgan.garcia54,Morgan,Garcia,2,MC,B,1.0
+morgan.garcia54,Morgan,Garcia,3,MC,A,0.0
+morgan.garcia54,Morgan,Garcia,4,MC,D,1.0
+morgan.garcia54,Morgan,Garcia,5,MC,D,1.0
+morgan.garcia54,Morgan,Garcia,6,MC,D,0.0
+morgan.garcia54,Morgan,Garcia,7,MC,B,1.0
+morgan.garcia54,Morgan,Garcia,8,MC,A,
+morgan.garcia54,Morgan,Garcia,9,MC,C,0.0
+morgan.garcia54,Morgan,Garcia,10,WR,I am concerned about overdependence.,
+jamie.davis55,Jamie,Davis,1,MC,A,1.0
+jamie.davis55,Jamie,Davis,2,MC,C,0.0
+jamie.davis55,Jamie,Davis,3,MC,C,1.0
+jamie.davis55,Jamie,Davis,4,MC,B,1.0
+jamie.davis55,Jamie,Davis,5,MC,A,0.0
+jamie.davis55,Jamie,Davis,6,MC,A,1.0
+jamie.davis55,Jamie,Davis,7,MC,C,1.0
+jamie.davis55,Jamie,Davis,8,MC,D,0.0
+jamie.davis55,Jamie,Davis,9,MC,A,0.0
+jamie.davis55,Jamie,Davis,10,WR,I am concerned about overdependence.,
+taylor.lee56,Taylor,Lee,1,MC,B,1.0
+taylor.lee56,Taylor,Lee,2,MC,C,0.0
+taylor.lee56,Taylor,Lee,3,MC,A,1.0
+taylor.lee56,Taylor,Lee,4,MC,D,1.0
+taylor.lee56,Taylor,Lee,5,MC,B,1.0
+taylor.lee56,Taylor,Lee,6,MC,B,1.0
+taylor.lee56,Taylor,Lee,7,MC,C,1.0
+taylor.lee56,Taylor,Lee,8,MC,D,0.0
+taylor.lee56,Taylor,Lee,9,MC,D,0.0
+taylor.lee56,Taylor,Lee,10,WR,AI reduces real speaking practice.,
+jamie.garcia57,Jamie,Garcia,1,MC,B,0.0
+jamie.garcia57,Jamie,Garcia,2,MC,A,0.0
+jamie.garcia57,Jamie,Garcia,3,MC,B,0.0
+jamie.garcia57,Jamie,Garcia,4,MC,B,1.0
+jamie.garcia57,Jamie,Garcia,5,MC,B,1.0
+jamie.garcia57,Jamie,Garcia,6,MC,A,0.0
+jamie.garcia57,Jamie,Garcia,7,MC,B,0.0
+jamie.garcia57,Jamie,Garcia,8,MC,B,1.0
+jamie.garcia57,Jamie,Garcia,9,MC,A,0.0
+jamie.garcia57,Jamie,Garcia,10,WR,I am concerned about overdependence.,
+alex.brown58,Alex,Brown,1,MC,A,
+alex.brown58,Alex,Brown,2,MC,A,1.0
+alex.brown58,Alex,Brown,3,MC,B,1.0
+alex.brown58,Alex,Brown,4,MC,A,0.0
+alex.brown58,Alex,Brown,5,MC,A,1.0
+alex.brown58,Alex,Brown,6,MC,A,0.0
+alex.brown58,Alex,Brown,7,MC,C,0.0
+alex.brown58,Alex,Brown,8,MC,D,1.0
+alex.brown58,Alex,Brown,9,MC,B,0.0
+alex.brown58,Alex,Brown,10,WR,AI reduces real speaking practice.,
+riley.garcia59,Riley,Garcia,1,MC,C,0.0
+riley.garcia59,Riley,Garcia,2,MC,D,0.0
+riley.garcia59,Riley,Garcia,3,MC,A,1.0
+riley.garcia59,Riley,Garcia,4,MC,C,1.0
+riley.garcia59,Riley,Garcia,5,MC,B,1.0
+riley.garcia59,Riley,Garcia,6,MC,B,1.0
+riley.garcia59,Riley,Garcia,7,MC,C,0.0
+riley.garcia59,Riley,Garcia,8,MC,A,0.0
+riley.garcia59,Riley,Garcia,9,MC,A,0.0
+riley.garcia59,Riley,Garcia,10,WR,AI reduces real speaking practice.,
