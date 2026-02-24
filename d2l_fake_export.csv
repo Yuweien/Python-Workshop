@@ -1,7 +1,7 @@
 Username ,FirstName,LastName,Q #,Q Type,Answer,Score
 riley.smith0,Riley,Smith,1,MC,C,0.0
 riley.smith0,Riley,Smith,2,MC,C,0.0
-riley.smith0,Riley,Smith,3,MC,A,0.0
+riley.smith0,Riley,Smith,3,MC ,A,0.0
 riley.smith0,Riley,Smith,4,MC,B,1.0
 riley.smith0,Riley,Smith,5,MC,C,1.0
 riley.smith0,Riley,Smith,6,MC,C,1.0
