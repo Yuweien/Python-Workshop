@@ -51,3 +51,20 @@ To view a copy of this license, visit: https://creativecommons.org/licenses/by/4
 
 
 ---
+
+## Additional Learning Resources
+
+The University of Arizona Libraries provide several resources for researchers interested in learning Python and data science methods:
+
+- **Software Carpentry: Plotting and Programming in Python**  
+  https://swcarpentry.github.io/python-novice-gapminder/
+
+- **UA Libraries Research Data Services**  
+  Support for data management, analysis workflows, and computational research methods.  
+  https://lib.arizona.edu/research/data
+
+- **UA Libraries Teaching Tools Hub**  
+  A collection of instructional materials and workshop resources developed by UA Libraries and collaborators.
+  https://teachingtools.lib.arizona.edu/
+
+---
